@@ -1,0 +1,9 @@
+{
+  "appId": "com.shyamal.nutriloop",
+  "appName": "NutriLoop",
+  "webDir": "www",
+  "android": { "backgroundColor": "#04452D" },
+  "plugins": {
+    "LocalNotifications": { "smallIcon": "ic_stat_leaf", "iconColor": "#0C9A5B" }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "NutriLoop",
+  "short_name": "NutriLoop",
+  "description": "Little habits. Better days. Gujarati veg meal plans, calories, water and fitness reminders.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#04452D",
+  "theme_color": "#04452D",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
